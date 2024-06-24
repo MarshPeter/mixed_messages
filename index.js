@@ -16,9 +16,17 @@ const braveryQuotes = [
     "you can, you should, and if you’re brave enough to start, you will.\n\t--Stephen King, On Writing: A Memoir of the Craft.",
     "Scared is what you're feeling. Brave is what you're doing.\n\t--Emma Donoghue, Room.",
     "I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.\n\t--Nelson Mandela.",
-    "It is hard to fail, but it is worse never to have tried to succeed.\n\t--Theodore Roosevelt.",
+    "It is hard to fail, but it is worse never to have tried to succeed.\n\tTheodore Roosevelt.",
     "The biggest adventure you can ever take is to live the life of your dreams.\n\t--Oprah Winfrey.",
-    "Every person has the power to change their fate if they are brave enough to fight for what they desire more than anything.\n\t--Stephanie Garber, Caraval",
+    "Every person has the power to change their fate if they are brave enough to fight for what they desire more than anything.\n\t--Stephanie Garber, Caraval.",
 ];
 
-const wisdomQuotes = [];
+const happinessQuotes = [
+    "For every minute you are angry you lose sixty seconds of happiness.\n\t--Ralph Waldo Emerson.",
+    "Folks are usually about as happy as they make their minds up to be.\n\t--Abraham Lincoln.",
+    "It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace.\n\t--Chuck Palahniuk, Diary.",
+    "Happiness is when what you think, what you say, and what you do are in harmony.\n\t--Mahatma Gandhi.",
+    "You cannot protect yourself from sadness without protecting yourself from happiness.\n\t--Jonathan Safran Foer.",
+    "Don’t waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.\n\t--Roy T. Bennett.",
+    "If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.\n\t--Roy T. Bennett, The Light in the Heart",
+];
