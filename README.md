@@ -2,6 +2,6 @@
 
 ## Description
 
-The program will ask the user if they are ready for a bit of inspiration or wish to quit. If the user enters anything besides a "quit" message, the user will receive a random set of responses that inspire them.
+The program when run will display to the console several inspirational quotes for you to push through your troubles.
 
 ## Usage
